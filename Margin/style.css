@@ -1,0 +1,32 @@
+h1 {
+    border: 1px solid;
+    width: 300px;
+}
+
+p {
+    border: 1px solid;
+    width: 500px;
+    padding: 25px;
+    margin-left: 40px;
+}
+
+#p1 {
+    border: 1px solid;
+    width: 500px;
+    padding: 25px;
+    margin-left: 40px;
+}
+
+#p2 {
+    border: 1px solid;
+    width: 500px;
+    padding: 25px;
+    margin: 60px;
+}
+
+#p3 {
+    border: 1px solid;
+    width: 500px;
+    padding: 25px;
+    margin: 10px;
+}

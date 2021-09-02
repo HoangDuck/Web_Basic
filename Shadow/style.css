@@ -1,0 +1,11 @@
+h1 {
+    border: 1px solid;
+    width: 400px;
+    padding: 25px;
+    text-align: center;
+    text-shadow: 0px 0px 3px yellow;
+    /*
+        horizontal, vertical,blur,color
+    */
+    box-shadow: 2px 5px 10px blue;
+}
